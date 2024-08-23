@@ -1,0 +1,5 @@
+# Java Build Directories
+/target/
+/.classpath
+/.project
+
